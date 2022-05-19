@@ -21,8 +21,8 @@
 
           <li><a href="{{route('services')}}">Services</a></li>
           <li><a href="{{route('portfolio')}}">Portfolio</a></li>
-          <li><a href="pricing.html">Pricing</a></li>
-          <li><a href="blog.html">Blog</a></li>
+          {{-- <li><a href="pricing.html">Pricing</a></li>
+          <li><a href="blog.html">Blog</a></li> --}}
           <li><a href="{{route('contact')}}">Contact</a></li>
 
         </ul>
